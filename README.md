@@ -10,11 +10,15 @@ Hey guys
 
 Obinna typed on this line
 
+
+
 Hello everyone!
 
+
+This should cause a conflict...
 Altered changes.......
 
-
+... I hope it does!
 
 
 
